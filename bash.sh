@@ -1,4 +1,5 @@
 #!/bin/bash 
+#just adding some usefull comment!
 COUNTER=0 
 while [ $COUNTER -lt 10 ] 
 do 
