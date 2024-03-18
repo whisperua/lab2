@@ -1,4 +1,6 @@
 #!/bin/bash 
+#just adding some usefull comment!
+#unother usefull comment indeed!!
 COUNTER=0 
 while [ $COUNTER -lt 10 ] 
 do 
